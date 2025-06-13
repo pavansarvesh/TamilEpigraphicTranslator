@@ -1,3 +1,10 @@
 /dataset/
 /segmented_characters/
 /segmented_scattered_characters/
+/best_model.h5
+/cnnModelgpu.h5
+/mobilenetv3_old_tamil.pth
+/resnet50.pth
+/sample1.h5
+/sample.h5
+/vgg16.pth
